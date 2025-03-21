@@ -7,19 +7,19 @@ body,td,th {
     color:rgb(35, 196, 218);
     font-size: 12px;
 }
-.style1 {color:rgb(248, 6, 6)}
+.style1 {color:rgb(255,20,147)}
 .style2 {
-    color:rgb(183, 214, 45);
+    color:rgb(0,0,255);
     font-weight: bold;
 }
 .style3 {color:#
-cd4022
+    #FF1493
 }
-.style7 {color:rgb(3, 3, 255); font-style: italic; }
+.style7 {color:rgb(75,0,130); font-style: italic; }
 body {
-    background-color:rgb(25, 22, 216);
+    background-color:rgb(238,130,238);
 }
-.style8 {color:rgb(224, 15, 15)}
+.style8 {color:rgb(0,0,128)}
 
 </style></head>
 
@@ -181,7 +181,7 @@ body {
         </tr>
         
         <tr>
-          <td colspan="5" align="right"><h4>Created by: &lt;<em>Diomedes M. Mission Jr</em>&gt;</h4></td>
+          <td colspan="5" align="right"><h4>Created by: &lt;<em>SUMBRANA EDRIAN R.</em>&gt;</h4></td>
         </tr>
       </tbody></table>      
       <p align="center" class="style1"> </p></td>
@@ -190,3 +190,4 @@ body {
 
 
 </body></html>
+
